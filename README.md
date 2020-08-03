@@ -6,14 +6,6 @@
 
 Input the tasks T1(2, 0.5), T2(3, 1.2), T3(6, 0.5) and the RM scheduler into the SimSo simulator
 
--Use SimSo to schedule the task set
-
-Provide a report answering the following questions:
-
-What is the utilization factor of the system and what is the value for Urm(3)
-What is the minimum/maximum/average response time of all tasks?
-Is any task missing the deadline? Which task? Where?
-If a deadline is missed, could it be avoided by changing the scheduler
 
 **Assignment3.1.xml** File was generated.
 
@@ -23,3 +15,14 @@ If a deadline is missed, could it be avoided by changing the scheduler
 
 **Gantt**
 ![GUI](https://github.com/adolfdcosta91/FreeRTOS---SimSo/blob/master/ScreenShot/Gantt1.png)
+
+## Simulation 2
+
+Input the tasks T1(2, 0.5, 1.9) T2(5, 2) T3(1, 0.1, 0.5) T4(10, 5, 20) and the EDF scheduler into the SimSo simulator
+
+**Assignment3.2.xml** File was generated.
+
+**Result**
+
+
+**Gantt**
