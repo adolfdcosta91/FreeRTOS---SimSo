@@ -23,6 +23,10 @@ Input the tasks T1(2, 0.5, 1.9) T2(5, 2) T3(1, 0.1, 0.5) T4(10, 5, 20) and the E
 **Assignment3.2.xml** File was generated.
 
 **Result**
-
+![GUI](https://github.com/adolfdcosta91/FreeRTOS---SimSo/blob/master/ScreenShot/Result2.png)
 
 **Gantt**
+![GUI](https://github.com/adolfdcosta91/FreeRTOS---SimSo/blob/master/ScreenShot/Gantt2.png)
+
+**Dead Line Missed**
+![GUI](https://github.com/adolfdcosta91/FreeRTOS---SimSo/blob/master/ScreenShot/DeadlineMissed2.png)
