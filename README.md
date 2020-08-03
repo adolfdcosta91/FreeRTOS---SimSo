@@ -17,6 +17,9 @@ If a deadline is missed, could it be avoided by changing the scheduler
 
 **Assignment3.1.xml** File was generated.
 
+**Result**
 
 ![GUI](https://github.com/adolfdcosta91/FreeRTOS---SimSo/blob/master/ScreenShot/Result1.png)
+
+**Gantt**
 ![GUI](https://github.com/adolfdcosta91/FreeRTOS---SimSo/blob/master/ScreenShot/Gantt1.png)
